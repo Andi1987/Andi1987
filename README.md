@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andi1987
+- 👋 Hi, I’m @Andi
 - 👀 I’m interested in PHP Programming & Rest API
 - 🌱 I’m currently learning about NodeJS, Python
 
